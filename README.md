@@ -19,7 +19,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=AAL1X&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ALX-13&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
 
@@ -112,11 +112,11 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AAL1X&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAL1X&theme=nightowl&hide_border=false" alt="AAL1X streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ALX-13&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALX-13&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AAL1X&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ALX-13&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -127,7 +127,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/ALX-13/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
