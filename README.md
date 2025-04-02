@@ -90,7 +90,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
       <h3 align="center">El Molino</h3>
       <div align="center">
         <a href="https://github.com/ALX-13/El-Molino" target="_blank">
-          <img src="https://github.com/ALX-13/El-Molino/tree/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
+          <img src="https://github.com/ALX-13/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
         </a>
         <p>
           <a href="https://github.com/ALX-13/El-Molino" target="_blank">
