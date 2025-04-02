@@ -89,11 +89,11 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
     <td width="50%">
       <h3 align="center">El Molino</h3>
       <div align="center">
-        <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
-          <img src="https://github.com/AAL1X/El_Molino-v1.0/blob/main/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
+        <a href="https://github.com/ALX-13/ElMolino" target="_blank">
+          <img src="https://github.com/ALX-13/El Molino/blob/main/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
         </a>
         <p>
-          <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
+          <a href="https://github.com/ALX-13/El Molino" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
