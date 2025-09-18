@@ -97,7 +97,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>EL MOLINO</strong> es un juego desarrollado en <strong>C++</strong> que combina estrategias, decisiones e incluye gráficos de calidad sorprendente para una aplicación de consola.</p>
+        <p><strong>EL MOLINO</strong> is a game developed in C++ that combines strategy and decision-making, featuring surprisingly high-quality graphics for a console application.</p>
       </div>
     </td>
   </tr>
