@@ -94,7 +94,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
         </a>
         <p>
           <a href="https://github.com/ALX-13/El-Molino" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
         <p><strong>EL MOLINO</strong> is a game developed in C++ that combines strategy and decision-making, featuring surprisingly high-quality graphics for a console application.</p>
