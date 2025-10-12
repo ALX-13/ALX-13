@@ -6,7 +6,6 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
-
 I am a **Computer Science** student, currently halfway through my degree, expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
 - 📚 I’m currently learning ...
   - *Natural Language Processing (NLP)*
@@ -40,7 +39,7 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Develop -->
+<!-- Skills -->
 ###### Languages & Syntax:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
