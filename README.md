@@ -1,7 +1,7 @@
 <!-- Presentation -->
 <div align="center">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">AAL1X</a> 
+<h1><b>Hi there, I'm </b><a href="https://github.com/hexed-AAL1X">AAL1X</a> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <br>
@@ -26,7 +26,7 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ALX-13&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=hexed-AAL1X&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
 
@@ -139,11 +139,11 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
     <td width="50%">
       <h3 align="center">El Molino</h3>
       <div align="center">
-        <a href="https://github.com/ALX-13/El-Molino" target="_blank">
-          <img src="https://github.com/ALX-13/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
+        <a href="https://github.com/hexed-AAL1X/El-Molino" target="_blank">
+          <img src="https://github.com/hexed-AAL1X/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
         </a>
         <p>
-          <a href="https://github.com/ALX-13/El-Molino" target="_blank">
+          <a href="https://github.com/hexed-AAL1X/El-Molino" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
@@ -162,8 +162,8 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ALX-13&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALX-13&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hexed-AAL1X&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexed-AAL1X&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ALX-13&theme=nightowl&hide_border=false&langs_count=10"/>
