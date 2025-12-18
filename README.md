@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=800&color=B11226&size=38&center=true&vCenter=true&width=1000&lines=⚝+Hi+There+👋+⚝;𓆩+This+is+AAL1X+𓆪)](https://git.io/typing-svg)
 </h1>
-<br>
+
 </div>
 
 <!-- About me -->
