@@ -1,8 +1,11 @@
 <!-- Presentation -->
 <div align="center">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/hexed-AAL1X">AAL1X</a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&color=DB3FBE&size=35&center=true&vCenter=true&width=1000&lines=Hi+There+👋;This+is+AAL1X)](https://git.io/typing-svg)
+
 </h1>
 <br>
 </div>
@@ -25,9 +28,7 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
 
 <!-- Profile Trophies -->
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hexed-AAL1X&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
+  <img src="https://github-trophies.vercel.app/?username=hexed-AAL1X&theme=dark_lover&margin-w=5&margin-h=15&row=1&column=8&title=-AchieveSSSRank,-LongTimeUser,-NewUser,MultiLanguage,Commit,Followers,Stars,Repositories,Issues,PullRequest,experience" alt="hexed-AAL1X" width="84%"/>
 </div>     
 
 <!-- Social Links -->
