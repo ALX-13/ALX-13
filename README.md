@@ -27,7 +27,7 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
 
 <!-- Profile Trophies -->
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=hexed-AAL1X&theme=dark_lover&margin-w=5&margin-h=15&row=1&column=8&title=-AchieveSSSRank,-LongTimeUser,-NewUser,MultiLanguage,Commit,Followers,Stars,Repositories,Issues,PullRequest,experience" alt="hexed-AAL1X" width="84%"/>
+  <img src="https://github-trophies.vercel.app/?username=hexed-AAL1X&theme=dark_lover&margin-w=5&margin-h=15&row=1&column=7&title=-AchieveSSSRank,-LongTimeUser,-NewUser,MultiLanguage,Commit,Followers,Stars,Repositories,Issues,PullRequest,experience" alt="hexed-AAL1X" width="84%"/>
 </div>     
 
 <!-- Social Links -->
