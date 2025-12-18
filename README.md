@@ -3,8 +3,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=800&color=B11226&size=38&center=true&vCenter=true&width=1000&lines=⚝+Hi+There+👋+⚝;𓆩+This+is+AAL1X+𓆪)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=800&color=FF1E1E&size=38&center=true&vCenter=true&width=1000&lines=𖤐+Hi+There+👋+𖤐;This+is+⸸+AAL1X+⸸)](https://git.io/typing-svg)
 </h1>
 
 </div>
