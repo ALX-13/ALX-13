@@ -165,10 +165,10 @@ I am a **Computer Science** student, in the final stages of my degree, with soli
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hexed-AAL1X&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexed-AAL1X&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexed-AAL1X&theme=nightowl&hide_border=false" alt="hexed-AAL1X streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hexed-AAL1X&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hexed-AAL1X&theme=nightowl&hide_border=false&langs_count=6"/>
 </td>
 </tr>
 </table>
